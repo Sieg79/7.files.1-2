@@ -17,10 +17,5 @@ def open_file(file_name):
     return cook_book
 
 
-
-
-
-
-
 open_file("recipes.txt")
 pprint(open_file("recipes.txt"))
